@@ -1,6 +1,6 @@
 Hey!👋
 
-I`m backend developer. I have experience with Java more than a year.I like learning new technologies and putting them into projects.
+I`m backend developer. I have experience with Java more than a year. I like learning new technologies and putting them into projects.
 It’s important to me that my work is of practical use. Created my own search engine.
 
 ---
