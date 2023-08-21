@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Egor
+- 👋 Hey, I’m Egor
 - 👀 Java Dev
 - 📫 Get in touch [t.me/essquall](https://t.me/essquall)
 <!--
