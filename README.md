@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Egor
 - 👀 Java Dev
-- 📫 Get in touch [TG](https://t.me/essquall)
+- 📫 Get in touch [t.me/essquall](https://t.me/essquall)
 <!--
 **essquall/essquall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
